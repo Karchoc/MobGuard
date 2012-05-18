@@ -8,12 +8,14 @@ Someone has killed you cows. But who is it? You just can cry. You just can cry? 
 Version
 =======
 
-MobGuard is still in development. It just log the guilty, the location and the victim.
-It's still in French, but i will traduct it soon.
+MobGuard is still in development. It logs the guilty, the location and the victim in a text file, but it logs them when a mob is attacked, but it don't say when a mob is killed.
 
 To do
 =====
 
-- Write informations in a .txt file
-- Transform "CraftPlayer{name=Karchoc}" or "CraftSkeleton" in "Player Karchoc" or "Skeleton"
-- Make the code less buggy.
+- [done!]Write informations in a .txt file
+- [done!]Transform "CraftPlayer{name=Karchoc}" or "CraftSkeleton" in "Player Karchoc" or "Skeleton"
+- [done!]Make the code less buggy.
+- Log when a mob is killed
+- Add commands
+- Add a protection system

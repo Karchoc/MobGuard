@@ -1,5 +1,5 @@
-name: TroisièmePluginBukkit
-version: 0.0
-description: Un plugin que je fais qui va peut-être sauver la vie de vaches.
+name: MobGuard
+version: 1.0
+description: A plugin to log the mobs attacked.
 author: Karchoc
-main: fr.Karchoc.TPB.TPB
+main: fr.Karchoc.MobGuard.MobGuard
