@@ -16,6 +16,7 @@ To do
 - [done!]Write informations in a .txt file
 - [done!]Transform "CraftPlayer{name=Karchoc}" or "CraftSkeleton" in "Player Karchoc" or "Skeleton"
 - [done!]Make the code less buggy.
-- Log when a mob is killed
+- [done!]Log when a mob is killed
+- Split animals' deaths and creatures' deaths
 - Add commands
 - Add a protection system
