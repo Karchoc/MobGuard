@@ -8,7 +8,7 @@ Someone has killed you cows. But who is it? You just can cry. You just can cry? 
 Version
 =======
 
-MobGuard is still in development. It logs the guilty, the location and the victim in a text file, but it logs them when a mob is attacked, but it don't say when a mob is killed.
+MobGuard is still in development. It logs the guilty, the location and the victim in a text file when a mob is attacked or killed.
 
 To do
 =====
