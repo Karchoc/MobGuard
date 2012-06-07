@@ -15,6 +15,7 @@ public class MobGuard extends JavaPlugin{
 		log.info("MobGuard say you Hello!");
 		log.info("MobGuard is watching yours animals.");
 		getServer().getPluginManager().registerEvents(new onEntityAttacked(), this);
+                getServer().getPluginManager().registerEvents(new onEntityKilled(), this);
 	}
 
 }

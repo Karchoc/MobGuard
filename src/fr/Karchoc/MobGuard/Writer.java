@@ -55,7 +55,7 @@ public class Writer{
 				//Create a new file if the directory already exists, but not the file
 
 				file.createNewFile();
-				System.out.println("New file at " + filePath);
+				System.out.println("[MobGuard]Creating file at " + filePath);
 
 
 
@@ -83,12 +83,12 @@ public class Writer{
 				//Creates directory if directory doesn't exist
 
 				dir.mkdir();
-				System.out.println("New directory at " + directoryPath);
+				System.out.println("[MobGuard]Creating directory at " + directoryPath);
 
 				//Then creates the file in the directory
 
 				file.createNewFile();
-				System.out.println("New file at " + filePath);			
+				System.out.println("[MobGuard]Creating file at " + filePath);			
 				try {
 					FileWriter fw = new FileWriter(filePath, true);
 					BufferedWriter output = new BufferedWriter(fw);
